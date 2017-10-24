@@ -1,5 +1,2 @@
 set proxy ---> git config --global http.proxy proxy.ctu.edu.vn:3128
 unset proxy ---> git config --global --unset http.proxy
-abc 
-dbc
-dbc
